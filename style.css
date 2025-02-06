@@ -353,11 +353,13 @@ nav>ul>li:hover {
     display: flex;
     width: 23vmax;
     margin-bottom: 2vmax;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .internal-col1 {
     display: flex;
     justify-content: space-between;
+    
 }
 
 .internal-col1 > img{
